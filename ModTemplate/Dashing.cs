@@ -49,6 +49,38 @@ namespace CelesteWilds
 
         float lastClimbingTime;
 
+
+        float lastTimeInAllowedFluid = 0f;
+        bool wasAlreadyInAllowedFluid = false;
+        bool CanReceiveinFluidRecharge(float rechargeTime ,params FluidVolume.Type[] allowedFluids) 
+        {
+            bool isInOneOfTheFluids = false;
+            for(int i =0; i< allowedFluids.Length;i++)
+            {
+                if (playerBody.GetAttachedFluidDetector().InFluidType(allowedFluids[i])) 
+                {
+                    isInOneOfTheFluids = true;
+                    i = allowedFluids.Length;
+                }
+            }
+            if (!isInOneOfTheFluids)
+            {
+                wasAlreadyInAllowedFluid = false;
+                return false;
+            }
+
+            if (!wasAlreadyInAllowedFluid) 
+            {
+                lastTimeInAllowedFluid = Time.time;
+                wasAlreadyInAllowedFluid = true;
+            }
+            bool allowReceiveRecharge = Time.time - lastTimeInAllowedFluid >= rechargeTime;
+
+            if(allowReceiveRecharge)
+                lastTimeInAllowedFluid = Time.time;
+
+            return allowReceiveRecharge;
+        }
         public void Update()
         {
             if (wasClimbing && !climbing.isClimbing)
@@ -59,10 +91,14 @@ namespace CelesteWilds
 
             bool isJumpPressed = OWInput.IsPressed(InputLibrary.jump, InputMode.Character | InputMode.NomaiRemoteCam, 0f);
 
-            if (playerCharacterController.IsGrounded() || (climbing.isClimbing && restoreDashOnClimb)) 
-            {
+            bool allowDashRecharge = false;
+            allowDashRecharge |= playerCharacterController.IsGrounded();
+            allowDashRecharge |= climbing.isClimbing && restoreDashOnClimb;
+            allowDashRecharge |= CanReceiveinFluidRecharge(1.5f, FluidVolume.Type.NONE, FluidVolume.Type.TRACTOR_BEAM,FluidVolume.Type.WATER, FluidVolume.Type.FOG, FluidVolume.Type.SAND, FluidVolume.Type.GEYSER);
+
+            if (allowDashRecharge) 
                 currentDashStamina = maxDashStamina;
-            }
+
             
             if(isJumpPressed && !wasJumpPressed) 
             {

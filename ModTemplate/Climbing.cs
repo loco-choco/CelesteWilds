@@ -176,7 +176,15 @@ namespace CelesteWilds
                 currentClimbingStamina = Mathf.Clamp(currentClimbingStamina - climbingStaminaConsuption * Time.deltaTime, 0f, MaxClimbingStamina);
 
                 stopClimbingPrompt.SetVisibility(true);
-                if (PlayerState.IsAttached() || (isCancelPressed && !wasCancelPressed) || (isJumpPressed && !wasJumpPressed) || currentClimbingStamina <= 0f)
+                bool shouldPlayerStopClimbing = false;
+                shouldPlayerStopClimbing |= PlayerState.IsAttached();
+                shouldPlayerStopClimbing |= isCancelPressed && !wasCancelPressed;
+                shouldPlayerStopClimbing |= isJumpPressed && !wasJumpPressed;
+                shouldPlayerStopClimbing |= currentClimbingStamina <= 0f;
+                shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.TRACTOR_BEAM);
+                shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.GEYSER);
+                shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.SAND);
+                if (shouldPlayerStopClimbing)
                 {
                     StopClimbing();
                     lastClimbingTime = Time.time;

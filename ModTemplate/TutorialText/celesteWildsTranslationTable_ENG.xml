@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<entry>
+		<key>SignThanks to some recent  <![CDATA[<i>]]>repairs<![CDATA[</i>]]> on the space suits the thrusters no longer work properly <![CDATA[<size=20>]]>(I'm looking at you Slate)<![CDATA[</size>]]></key>
+		<value>Thanks to some recent  <![CDATA[<i>]]>repairs<![CDATA[</i>]]> on the space suits the thrusters no longer work properly <![CDATA[<size=20>]]>(I'm looking at you Slate)<![CDATA[</size>]]></value>
+	</entry>
+	<entry>
+		<key>SignSo now the OUTER WILDS VENTURES space program requires its astrounauts to learn a new skill, climbing!</key>
+		<value>So now the OUTER WILDS VENTURES space program requires its astrounauts to learn a new skill, climbing!</value>
+	</entry>
+	<entry>
+		<key>SignTo do it you need to: \\n     1.     Get close to a wall.\\n     2.     Climb said wall.\\n     3.     Act as if you where flying the suit.\\n</key>
+		<value>To do it you need to: \\n     1.     Get close to a wall.\\n     2.     Climb said wall.\\n     3.     Act as if you where flying the suit.\\n</value>
+	</entry>
+	<entry>
+		<key>SignDouble-sided tape was added to the suits to allow better adhesion into surfaces, so don't forget it</key>
+		<value>Double-sided tape was added to the suits to allow better adhesion into surfaces, so don't forget it</value>
+	</entry>
+	<entry>
+		<key>SignYou can also jump from the wall while you are climbing if needed</key>
+		<value>You can also jump from the wall while you are climbing if needed</value>
+	</entry>
+	<entry>
+		<key>Sign- Gossan</key>
+		<value>- Gossan</value>
+	</entry>
+	<entry>
+		<key>SignYes yes, I know the suit thrusters are broken, so to compansate for that I made some modifications to the booster in your suit</key>
+		<value>Yes yes, I know the suit thrusters are broken, so to compansate for that I made some modifications to the booster in your suit</value>
+	</entry>
+	<entry>
+		<key>SignYou can now <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you look, even if you are in 0g or not!</key>
+		<value>You can now <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you look, even if you are in 0g or not!</value>
+	</entry>
+	<entry>
+		<key>SignJust press the booster button while in the air and <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you desire!</key>
+		<value>Just press the booster button while in the air and <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you desire!</value>
+	</entry>
+	<entry>
+		<key>SignBut please, just don't try to boost to the floor while you are falling</key>
+		<value>But please, just don't try to boost to the floor while you are falling</value>
+	</entry>
+	<entry>
+		<key>Sign- Slate</key>
+		<value>- Slate</value>
+	</entry>
+	<entry>
+		<key>SignThese strange marshmellows just started to appear everywhere on the solar system</key>
+		<value>These strange marshmellows just started to appear everywhere on the solar system</value>
+	</entry>
+	<entry>
+		<key>SignOn the pause menu you can find hints about their locations within a planet</key>
+		<value>On the pause menu you can find hints about their locations within a planet</value>
+	</entry>
+	<entry>
+		<key>SignIf no more collectibles exist in a planet no new hints will show</key>
+		<value>If no more collectibles exist in a planet no new hints will show</value>
+	</entry>
+	<entry>
+		<key>SignThe planets and locations that might have collectibles are: \\n     1.     Timber Hearth.\\n     2.     Attlerock.\\n     3.     Orbital Probe Cannon.\\n     4.     Giant's Deep.\\n     5.     White Hole.\\n     6.     Brittle Hollow.\\n     7.     Ember Twin.\\n     8.     Dark Bramble.\\n     9.     Interloper.\\n</key>
+		<value>The planets and locations that might have collectibles are: \\n     1.     Timber Hearth.\\n     2.     Attlerock.\\n     3.     Orbital Probe Cannon.\\n     4.     Giant's Deep.\\n     5.     White Hole.\\n     6.     Brittle Hollow.\\n     7.     Ember Twin.\\n     8.     Dark Bramble.\\n     9.     Interloper.\\n</value>
+	</entry>
+	<entry>
+		<key>SignI wonder what happens when you collect <![CDATA[<b>]]>all of them<![CDATA[</b>]]></key>
+		<value>I wonder what happens when you collect <![CDATA[<b>]]>all of them<![CDATA[</b>]]></value>
+	</entry>
+	<entry>
+		<key>First Mellow</key>
+		<value>First Mellow</value>
+	</entry>
+	<entry>
+		<key>The first mellow you see</key>
+		<value>The first mellow you see</value>
+	</entry>
+	<entry>
+		<key>A long long climb</key>
+		<value>A long long climb</value>
+	</entry>
+	<entry>
+		<key>At the start of the Mineshaft</key>
+		<value>At the start of the Mineshaft</value>
+	</entry>
+	<entry>
+		<key>ZeroG Cave Beggining</key>
+		<value>ZeroG Cave Beggining</value>
+	</entry>
+	<entry>
+		<key>At the ZeroG Cave, look up</key>
+		<value>At the ZeroG Cave, look up</value>
+	</entry>
+	<entry>
+		<key>ZeroG Cave Satellite</key>
+		<value>ZeroG Cave Satellite</value>
+	</entry>
+	<entry>
+		<key>When at the satellite, look for rocks</key>
+		<value>When at the satellite, look for rocks</value>
+	</entry>
+	<entry>
+		<key>Resting Place</key>
+		<value>Resting Place</value>
+	</entry>
+	<entry>
+		<key>Next to the Landing Pad</key>
+		<value>Next to the Landing Pad</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Outside Waterfall</key>
+		<value>Nomai Mine Outside Waterfall</value>
+	</entry>
+	<entry>
+		<key>The waterfall close to the nomai mine</key>
+		<value>The waterfall close to the nomai mine</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Outside Out Of Bounds</key>
+		<value>Nomai Mine Outside Out Of Bounds</value>
+	</entry>
+	<entry>
+		<key>Did you know that some rocks next to the mine entrance have gaps?</key>
+		<value>Did you know that some rocks \\n next to the mine entrance have gaps?</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Inside End Of Beam</key>
+		<value>Nomai Mine Inside End Of Beam</value>
+	</entry>
+	<entry>
+		<key>Look where the beam at the mine should lead to</key>
+		<value>Look where the beam at the mine should lead to</value>
+	</entry>
+	<entry>
+		<key>Esker House</key>
+		<value>Esker House</value>
+	</entry>
+	<entry>
+		<key>Esker's House</key>
+		<value>Esker's House</value>
+	</entry>
+	<entry>
+		<key>Alpha Rock</key>
+		<value>Alpha Rock</value>
+	</entry>
+	<entry>
+		<key>Some ships have seen better days</key>
+		<value>Some ships have seen better days</value>
+	</entry>
+	<entry>
+		<key>Space Walk</key>
+		<value>Space Walk</value>
+	</entry>
+	<entry>
+		<key>Control Module</key>
+		<value>Control Module</value>
+	</entry>
+	<entry>
+		<key>Construction Yard Tree</key>
+		<value>Construction Yard Tree</value>
+	</entry>
+	<entry>
+		<key>Construction Yard</key>
+		<value>Construction Yard</value>
+	</entry>
+	<entry>
+		<key>Ice Ice Baby</key>
+		<value>Ice Ice Baby</value>
+	</entry>
+	<entry>
+		<key>Ice</key>
+		<value>Ice</value>
+	</entry>
+	<entry>
+		<key>Gabbro Island</key>
+		<value>Gabbro Island</value>
+	</entry>
+	<entry>
+		<key>At the top of Gabbro Island</key>
+		<value>At the top of Gabbro Island</value>
+	</entry>
+	<entry>
+		<key>Statue Island Under</key>
+		<value>Statue Island Under</value>
+	</entry>
+	<entry>
+		<key>The grid at the Statue Island</key>
+		<value>The grid at the Statue Island</value>
+	</entry>
+	<entry>
+		<key>Statue Island Arch</key>
+		<value>Statue Island Arch</value>
+	</entry>
+	<entry>
+		<key>The Arch at the Statue Island</key>
+		<value>The Arch at the Statue Island</value>
+	</entry>
+	<entry>
+		<key>Eye Coordinates</key>
+		<value>Eye Coordinates</value>
+	</entry>
+	<entry>
+		<key>Tracking Module</key>
+		<value>Tracking Module</value>
+	</entry>
+	<entry>
+		<key>Bramble Island</key>
+		<value>Bramble Island</value>
+	</entry>
+	<entry>
+		<key>Chert Camp</key>
+		<value>Chert Camp</value>
+	</entry>
+	<entry>
+		<key>Quantum Rules Tower</key>
+		<value>Quantum Rules Tower</value>
+	</entry>
+	<entry>
+		<key>Ghost Matter Passage</key>
+		<value>Ghost Matter Passage</value>
+	</entry>
+	<entry>
+		<key>Ghost Matter Sunless City Passage</key>
+		<value>Ghost Matter Sunless City Passage</value>
+	</entry>
+	<entry>
+		<key>Sand Cascate Skip</key>
+		<value>Sand Cascate Skip</value>
+	</entry>
+	<entry>
+		<key>Feldspar Jellyfish</key>
+		<value>Feldspar Jellyfish</value>
+	</entry>
+	<entry>
+		<key>Jellyfish</key>
+		<value>Jellyfish</value>
+	</entry>
+	<entry>
+		<key>First Choise</key>
+		<value>First Choise</value>
+	</entry>
+	<entry>
+		<key>First Tunnel Choise</key>
+		<value>First Tunnel Choise</value>
+	</entry>
+	<table_shipLog>
+	</table_shipLog>
+	<table_ui>
+		<TranslationTableEntryUI>
+			<key>100</key>
+			<value>RESUME CLIMB</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>101</key>
+			<value>BEGIN CLIMB</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>150</key>
+			<value>Dash</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>401</key>
+			<value>CRITICAL LEVELS OF STAMINA</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>402</key>
+			<value>% OF STAMINA LEFT</value>	
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>941</key>
+			<value>STAM</value>	
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1546</key>
+			<value>Climb</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1547</key>
+			<value>Stop Climbing</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1548</key>
+			<value>Started Climbing</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1549</key>
+			<value>Stoped Climbing</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1550</key>
+			<value>Current Hint: </value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1551</key>
+			<value>No new Hints in this planet</value>
+		</TranslationTableEntryUI>
+	</table_ui>
+</TranslationTable_XML>

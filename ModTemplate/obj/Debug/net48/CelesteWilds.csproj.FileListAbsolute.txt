@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\default-config.json
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\manifest.json
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\CelesteWilds.dll
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\CelesteWilds.pdb
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.dll
+C:\Users\Pichau\Desktop\programas\CelesteWilds\ModTemplate\obj\Debug\net48\CelesteWilds.pdb
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\TutorialText\climbingTutorial.xml
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\TutorialText\celesteWildsTranslationTable_ENG.xml
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\TutorialText\celesteWildsTranslationTable_POR.xml
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\TutorialText\collectiblesTutorial.xml
+C:\Users\Pichau\AppData\Roaming\OuterWildsModManager\OWML\Mods\Locochoco.CelesteWilds\TutorialText\dashTutorial.xml

@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<entry>
+		<key>SignThanks to some recent  <![CDATA[<i>]]>repairs<![CDATA[</i>]]> on the space suits the thrusters no longer work properly <![CDATA[<size=20>]]>(I'm looking at you Slate)<![CDATA[</size>]]></key>
+		<value>Graças a alguns recentes <![CDATA[<i>]]>reparos<![CDATA[</i>]]> nas roupas espaciais os propulsores não funcionam mais <![CDATA[<size=20>]]>(Estou de olho em você Ardósia)<![CDATA[</size>]]></value>
+	</entry>
+	<entry>
+		<key>SignSo now the OUTER WILDS VENTURES space program requires its astrounauts to learn a new skill, climbing!</key>
+		<value>Portanto agora o programa espacial OUTER WILDS VENTURES requer que seus astrounautas aprendam uma nova abilidade, escalar!</value>
+	</entry>
+	<entry>
+		<key>SignTo do it you need to: \\n     1.     Get close to a wall.\\n     2.     Climb said wall.\\n     3.     Act as if you where flying the suit.\\n</key>
+		<value>Para fazer isso você precisa: \\n     1.     Chegar perto de uma parede.\\n     2.     Escalar tal parede.\\n     3.     Agir como se você estivesse usando a roupa normalmente.\\n</value>
+	</entry>
+	<entry>
+		<key>SignDouble-sided tape was added to the suits to allow better adhesion into surfaces, so don't forget it</key>
+		<value>Fita dupla-face foi adicionada a nos trajes para permitir uma melhor adesão nas superficies, então não a esqueça</value>
+	</entry>
+	<entry>
+		<key>SignYou can also jump from the wall while you are climbing if needed</key>
+		<value>Você também pode pular da parede enquanto escala se preciso</value>
+	</entry>
+	<entry>
+		<key>Sign- Gossan</key>
+		<value>- Gossan</value>
+	</entry>
+	<entry>
+		<key>SignYes yes, I know the suit thrusters are broken, so to compansate for that I made some modifications to the booster in your suit</key>
+		<value>Sim sim, eu sei que os propulsores da roupa estão quebrados, então para compensar por isso eu fiz algumas modificações no <![CDATA[<i>]]>booster<![CDATA[</i>]]> da sua</value>
+	</entry>
+	<entry>
+		<key>SignYou can now <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you look, even if you are in 0g or not!</key>
+		<value>Você pode agora dar um <![CDATA[<i>]]>dash<![CDATA[</i>]]> para onde olhar, estando em 0g ou não!</value>
+	</entry>
+	<entry>
+		<key>SignJust press the booster button while in the air and <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you desire!</key>
+		<value>Apenas aperte o botão do <![CDATA[<i>]]>booster<![CDATA[</i>]]> enquanto fora do chão e dê um <![CDATA[<i>]]>dash<![CDATA[</i>]]> para onde você desejar!</value>
+	</entry>
+	<entry>
+		<key>SignBut please, just don't try to boost to the floor while you are falling</key>
+		<value>Mas porfavor, tente não dar um <![CDATA[<i>]]>dash<![CDATA[</i>]]> em direção do chão enquanto você está caindo</value>
+	</entry>
+	<entry>
+		<key>Sign- Slate</key>
+		<value>- Ardósia</value>
+	</entry>
+	<entry>
+		<key>SignThese strange marshmellows just started to appear everywhere on the solar system</key>
+		<value>Esses estranhos marshmellows começaram a apareçer em todo o sistema solar</value>
+	</entry>
+	<entry>
+		<key>SignOn the pause menu you can find hints about their locations within a planet</key>
+		<value>No menu de pause você pode encontrar dicas sobre a localização deles em um planeta</value>
+	</entry>
+	<entry>
+		<key>SignIf no more collectibles exist in a planet no new hints will show</key>
+		<value>Se não há mais colecionaveis em um planeta nenhuma dica nova irá aparecer</value>
+	</entry>
+	<entry>
+		<key>SignThe planets and locations that might have collectibles are: \\n     1.     Timber Hearth.\\n     2.     Attlerock.\\n     3.     Orbital Probe Cannon.\\n     4.     Giant's Deep.\\n     5.     White Hole.\\n     6.     Brittle Hollow.\\n     7.     Ember Twin.\\n     8.     Dark Bramble.\\n     9.     Interloper.\\n</key>
+		<value>Os planetas e locais que talvez tenham colecionaveis são: \\n     1.     Recanto Lenhoso.\\n     2.     Pedra de Lia.\\n     3.     Canhão de Sonda Orbital.\\n     4.     Profundezas do Gigante.\\n     5.     Buraco Branco.\\n     6.     Vale Incerto.\\n     7.      Gêmeo Cálido.\\n     8.     Abrolho Sombrio.\\n     9.     Xereta.\\n</value>
+	</entry>
+	<entry>
+		<key>SignI wonder what happens when you collect <![CDATA[<b>]]>all of them<![CDATA[</b>]]></key>
+		<value>Me pergunto o que acontece se alguém coletar <![CDATA[<b>]]>todos eles<![CDATA[</b>]]></value>
+	</entry>
+	<entry>
+		<key>First Mellow</key>
+		<value>Primeiro Marshmellow</value>
+	</entry>
+	<entry>
+		<key>The first mellow you see</key>
+		<value>O primeiro marshmellow que você vê</value>
+	</entry>
+	<entry>
+		<key>A long long climb</key>
+		<value>Uma longa, lonquissima, subida</value>
+	</entry>
+	<entry>
+		<key>At the start of the Mineshaft</key>
+		<value>No inicio da decida para a Mina</value>
+	</entry>
+	<entry>
+		<key>ZeroG Cave Beggining</key>
+		<value>Inicio da caverna ZeroG</value>
+	</entry>
+	<entry>
+		<key>At the ZeroG Cave, look up</key>
+		<value>No inicio da caverna ZeroG, olhe para cima</value>
+	</entry>
+	<entry>
+		<key>ZeroG Cave Satellite</key>
+		<value>Satélite da caverna ZeroG</value>
+	</entry>
+	<entry>
+		<key>When at the satellite, look for rocks</key>
+		<value>Quando no satélite, procure por pedras</value>
+	</entry>
+	<entry>
+		<key>Resting Place</key>
+		<value>Local de Descanço</value>
+	</entry>
+	<entry>
+		<key>Next to the Landing Pad</key>
+		<value>Perto do espaço de pouso</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Outside Waterfall</key>
+		<value>Mina Nomai e sua Catarata</value>
+	</entry>
+	<entry>
+		<key>The waterfall close to the nomai mine</key>
+		<value>A catarata perto da mina nomai</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Outside Out Of Bounds</key>
+		<value>Mina Nomai e fugir do espaço jogavel</value>
+	</entry>
+	<entry>
+		<key>Did you know that some rocks next to the mine entrance have gaps?</key>
+		<value>Você sabia que algumas rochas \n  perto da entrada da mina tem buracos?</value>
+	</entry>
+	<entry>
+		<key>Nomai Mine Inside End Of Beam</key>
+		<value>Mina nomai e o fim do raio trator</value>
+	</entry>
+	<entry>
+		<key>Look where the beam at the mine should lead to</key>
+		<value>Olhe para onde o raio trator na mina deveria continuar</value>
+	</entry>
+	<entry>
+		<key>Esker House</key>
+		<value>Casa do Esker</value>
+	</entry>
+	<entry>
+		<key>Esker's House</key>
+		<value>Casa do Esker</value>
+	</entry>
+	<entry>
+		<key>Alpha Rock</key>
+		<value>Rocha e a Alpha</value>
+	</entry>
+	<entry>
+		<key>Some ships have seen better days</key>
+		<value>Algumas naves viram dias melhores</value>
+	</entry>
+	<entry>
+		<key>Space Walk</key>
+		<value>Caminhada Espacial</value>
+	</entry>
+	<entry>
+		<key>Control Module</key>
+		<value>Módulo de Controle</value>
+	</entry>
+	<entry>
+		<key>Construction Yard Tree</key>
+		<value>Arvore da Área de Construção</value>
+	</entry>
+	<entry>
+		<key>Construction Yard</key>
+		<value>Área de Construção</value>
+	</entry>
+	<entry>
+		<key>Ice Ice Baby</key>
+		<value>Ice Ice Baby</value>
+	</entry>
+	<entry>
+		<key>Ice</key>
+		<value>Gelo</value>
+	</entry>
+	<entry>
+		<key>Gabbro Island</key>
+		<value>Ilha do Gabro</value>
+	</entry>
+	<entry>
+		<key>At the top of Gabbro Island</key>
+		<value>No topo da ilha do Gabro</value>
+	</entry>
+	<entry>
+		<key>Statue Island Under</key>
+		<value>Embaixo da Ilha da Estatua</value>
+	</entry>
+	<entry>
+		<key>The grid at the Statue Island</key>
+		<value>A grade na ilha da estatua</value>
+	</entry>
+	<entry>
+		<key>Statue Island Arch</key>
+		<value>Arco da Ilha da Estatua</value>
+	</entry>
+	<entry>
+		<key>The Arch at the Statue Island</key>
+		<value>O arco da ilha da estatua</value>
+	</entry>
+	<entry>
+		<key>Eye Coordinates</key>
+		<value>Coordenadas do Olho</value>
+	</entry>
+	<entry>
+		<key>Tracking Module</key>
+		<value>Módulo de Rastreamento</value>
+	</entry>
+	<entry>
+		<key>Bramble Island</key>
+		<value>Ilha do Abrolho Sombrio</value>
+	</entry>
+	<entry>
+		<key>Chert Camp</key>
+		<value>Acapamento da Chert</value>
+	</entry>
+	<entry>
+		<key>Quantum Rules Tower</key>
+		<value>Torre das Leis Quânticas</value>
+	</entry>
+	<entry>
+		<key>Ghost Matter Passage</key>
+		<value>Passagem com Materia Fantasma</value>
+	</entry>
+	<entry>
+		<key>Ghost Matter Sunless City Passage</key>
+		<value>Passagem para a cidade sem sol \\n  com Materia Fantasma</value>
+	</entry>
+	<entry>
+		<key>Sand Cascate Skip</key>
+		<value>Skip da Cascata de Areia</value>
+	</entry>
+	<entry>
+		<key>Feldspar Jellyfish</key>
+		<value>Água Viva do Feldspato</value>
+	</entry>
+	<entry>
+		<key>Jellyfish</key>
+		<value>Água Viva</value>
+	</entry>
+	<entry>
+		<key>First Choise</key>
+		<value>Primeira Escolha</value>
+	</entry>
+	<entry>
+		<key>First Tunnel Choise</key>
+		<value>Primeira Escolha de Túnel</value>
+	</entry>
+	<table_shipLog>
+		<TranslationTableEntry>
+			<key>White Hole StationTo use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).</key>
+			<value>Para usar uma torre, você precisa estar sobre a plataforma durante o alinhamento da torre com seu corpo astral correspondente (o alinhamento ocorre quando o corpo astral está diretamente acima de você).</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>White Hole StationThe Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</key>
+			<value>Os Nomai perceberam algo estranho: Os objetos transportados pareciam chegar no receptor do Vale Incerto um pouco antes de terem partido da Estação do Buraco Branco.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
+			<value>Esse intervalo de tempo negativo entre a chegada e partida de um objeto era incrivelmente minúsculo (algo como cem milésimos de segundo). Os Nomai estavam céticos em relação ao equipamento conseguir mensurar o tempo em tamanha proporção.</value>
+		</TranslationTableEntry>
+	</table_shipLog>
+	<table_ui>
+		<TranslationTableEntryUI>
+			<key>100</key>
+			<value>RETOMAR ESCALADA</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>101</key>
+			<value>NOVA ESCALADA</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>150</key>
+			<value>Dash</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>401</key>
+			<value>NÍVEL DE STAMINA CRÍTICO</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>402</key>
+			<value>% DE STAMINA RESTANTE</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>941</key>
+			<value>STAM</value>	
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1546</key>
+			<value>Escalar</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1547</key>
+			<value>Parar de Escalar</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1548</key>
+			<value>Começou a Escalar</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1549</key>
+			<value>Parou de Escalar</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1550</key>
+			<value>Dica atual: </value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1551</key>
+			<value>Não há novas dicas nesse planeta</value>
+		</TranslationTableEntryUI>
+	</table_ui>
+</TranslationTable_XML>

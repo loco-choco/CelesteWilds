@@ -1,0 +1,14 @@
+﻿<DialogueTree>
+	<NameField>SIGN</NameField>
+	<DialogueNode>
+		<Name>Sign</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>Yes yes, I know the suit thrusters are broken, so to compansate for that I made some modifications to the booster in your suit</Page>
+			<Page>You can now <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you look, even if you are in 0g or not!</Page>
+			<Page>Just press the booster button while in the air and <![CDATA[<i>]]>dash<![CDATA[</i>]]> to wherever you desire!</Page>
+			<Page>But please, just don't try to boost to the floor while you are falling</Page>
+			<Page>- Slate</Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>

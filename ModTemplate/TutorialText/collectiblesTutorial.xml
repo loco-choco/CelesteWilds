@@ -1,0 +1,14 @@
+﻿<DialogueTree>
+	<NameField>SIGN</NameField>
+	<DialogueNode>
+		<Name>Sign</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>These strange marshmellows just started to appear everywhere on the solar system</Page>
+			<Page>On the pause menu you can find hints about their locations within a planet</Page>
+			<Page>If no more collectibles exist in a planet no new hints will show</Page>
+			<Page>The planets and locations that might have collectibles are: \\n     1.     Timber Hearth.\\n     2.     Attlerock.\\n     3.     Orbital Probe Cannon.\\n     4.     Giant's Deep.\\n     5.     White Hole.\\n     6.     Brittle Hollow.\\n     7.     Ember Twin.\\n     8.     Dark Bramble.\\n     9.     Interloper.\\n</Page>
+			<Page>I wonder what happens when you collect <![CDATA[<b>]]>all of them<![CDATA[</b>]]></Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>

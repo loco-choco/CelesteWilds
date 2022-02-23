@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{8A39F9E7-1A89-430C-9C3E-BDFB3B7E17DF}</ProjectGuid>
+    <TargetFramework>net48</TargetFramework>
+    <OutputPath>Build</OutputPath>
+    <AssemblyTitle>ModTemplate</AssemblyTitle>
+    <Product>ModTemplate</Product>
+    <Copyright>Copyright ©  2020</Copyright>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="OuterWildsGameLibs" Version="1.1.12.125" />
+    <PackageReference Include="OWML" Version="2.3.1" />
+	<PackageReference Include="HarmonyX" Version="2.5.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CelesteWilds.csproj.user" />
+    <None Include="default-config.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="manifest.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="TutorialText\collectiblesTutorial.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TutorialText\dashTutorial.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TutorialText\celesteWildsTranslationTable_ENG.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TutorialText\celesteWildsTranslationTable_POR.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TutorialText\climbingTutorial.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

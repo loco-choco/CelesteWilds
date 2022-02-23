@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"settings": {
+		"allowPlayerToSpawnCollectibles": {
+			"type": "toggle",
+			"value": false,
+			"yes": "Yes",
+			"no": "No",
+			"title": "Be able to Spawn Collectibles?"
+		},
+		"resetCollectibles": {
+			"type": "toggle",
+			"value": false,
+			"yes": "Yes",
+			"no": "No",
+			"title": "Reset Collectibles State?"
+		}
+	}
+}

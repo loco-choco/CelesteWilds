@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqbuErVnbToArsqn0nK/E/0BOD/dnbxgwgGyByCxhthtZQTb37qqNBEg5wBRMzxx95ICBpdVsjuPID63aKmc8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\programas\\CelesteWilds\\ModTemplate\\CelesteWilds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\harmonyx\\2.5.5\\harmonyx.2.5.5.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\json.net.unity3d\\9.0.1\\json.net.unity3d.9.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\lib.harmony\\1.2.0.1\\lib.harmony.1.2.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\outerwildsgamelibs\\1.1.12.125\\outerwildsgamelibs.1.1.12.125.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\owml\\2.3.1\\owml.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

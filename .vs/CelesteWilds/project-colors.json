@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a39f9e7-1a89-430c-9c3e-bdfb3b7e17df": {
+      "ProjectGuid": "8a39f9e7-1a89-430c-9c3e-bdfb3b7e17df",
+      "DisplayName": "CelesteWilds",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

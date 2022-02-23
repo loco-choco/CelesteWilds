@@ -1,0 +1,15 @@
+﻿<DialogueTree>
+	<NameField>SIGN</NameField>
+	<DialogueNode>
+		<Name>Sign</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>Thanks to some recent  <![CDATA[<i>]]>repairs<![CDATA[</i>]]> on the space suits the thrusters no longer work properly <![CDATA[<size=20>]]>(I'm looking at you Slate)<![CDATA[</size>]]></Page>
+			<Page>So now the OUTER WILDS VENTURES space program requires its astrounauts to learn a new skill, climbing!</Page>
+			<Page>To do it you need to: \\n     1.     Get close to a wall.\\n     2.     Climb said wall.\\n     3.     Act as if you where flying the suit.\\n</Page>
+			<Page>Double-sided tape was added to the suits to allow better adhesion into surfaces, so don't forget it</Page>
+			<Page>You can also jump from the wall while you are climbing if needed</Page>
+			<Page>- Gossan</Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>

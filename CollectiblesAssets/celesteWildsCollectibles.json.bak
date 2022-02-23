@@ -17,7 +17,7 @@
     "ParentObjectName": "TimberHearth_Body",
     "SectorWhereItBelongs": 4,
     "DisplayName": "A long long climb",
-    "Hint": "Up at the elevator shaft",
+    "Hint": "At the start of the Mineshaft",
     "Name": "MineShaft",
     "IsCollected": false
   },

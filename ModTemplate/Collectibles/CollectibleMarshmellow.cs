@@ -18,6 +18,7 @@ namespace CelesteWilds.Collectibles
         public static CollectibleMarshmellow CreateCollectible(MarshmellowCollectibleData data) 
         {
             Transform collectibleParent = data.FindCollectibleParentObject();
+
             if (collectibleParent == null)
                 return null;
 

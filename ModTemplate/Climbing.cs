@@ -183,7 +183,7 @@ namespace CelesteWilds
                 shouldPlayerStopClimbing |= currentClimbingStamina <= 0f;
                 shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.TRACTOR_BEAM);
                 shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.GEYSER);
-                shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.SAND);
+                //shouldPlayerStopClimbing |= owrigidbody.GetAttachedFluidDetector().InFluidType(FluidVolume.Type.SAND);
                 if (shouldPlayerStopClimbing)
                 {
                     StopClimbing();

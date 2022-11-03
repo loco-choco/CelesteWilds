@@ -17,6 +17,8 @@ namespace CelesteWilds
         MarshmellowCollectiblesUI collectiblesUI;
         private void Start()
         {
+            ILocalizationAPI api = ModHelper.Interaction.GetModApi<ILocalizationAPI>("xen.LocalizationUtility");
+
             Harmony harmony = new Harmony("com.locochoco.CelesteWilds");
             harmony.PatchAll();
 
@@ -65,7 +67,7 @@ namespace CelesteWilds
                 playerBody.gameObject.AddComponent<CollectibleSpawner>().marshmellowCollectiblesUI = collectiblesUI;
             };
 
-            tutorialTextManager = new TutorialTextManager(ModHelper, ModHelper.Manifest.ModFolderPath, "TutorialText");
+            tutorialTextManager = new TutorialTextManager(this, api, "TutorialText");
         }
 
         private void OnDestroy()

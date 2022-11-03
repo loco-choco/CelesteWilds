@@ -1,4 +1,5 @@
 ﻿using OWML.Common;
+using OWML.ModHelper;
 using System.IO;
 using System.Text;
 using UnityEngine;
@@ -15,20 +16,20 @@ namespace CelesteWilds.TutorialText
         TextAsset dashTutorialText;
         private IModHelper helper;
 
-        public TutorialTextManager(IModHelper helper, params string[] tutorialTextFolderName)
+        public TutorialTextManager(ModBehaviour mod, ILocalizationAPI api, params string[] tutorialTextFolderName)
         {
-            this.helper = helper;
+            helper = mod.ModHelper;
             string tutorialFolderPath = Path.Combine(tutorialTextFolderName);
-            string climbingTutorialString = File.ReadAllText(Path.Combine(tutorialFolderPath, "climbingTutorial.xml"));
+            string climbingTutorialString = File.ReadAllText(Path.Combine(helper.Manifest.ModFolderPath, tutorialFolderPath, "climbingTutorial.xml"));
             climbingTutorialText = new TextAsset(climbingTutorialString);
 
-            string collectiblesTutorialString = File.ReadAllText(Path.Combine(tutorialFolderPath, "collectiblesTutorial.xml"));
+            string collectiblesTutorialString = File.ReadAllText(Path.Combine(helper.Manifest.ModFolderPath, tutorialFolderPath, "collectiblesTutorial.xml"));
             collectiblesTutorialText = new TextAsset(collectiblesTutorialString);
 
-            string dashTutorialString = File.ReadAllText(Path.Combine(tutorialFolderPath, "dashTutorial.xml"));
+            string dashTutorialString = File.ReadAllText(Path.Combine(helper.Manifest.ModFolderPath, tutorialFolderPath, "dashTutorial.xml"));
             dashTutorialText = new TextAsset(dashTutorialString);
 
-            Utils.AddFolderOfTranslationTables(tutorialFolderPath, "celesteWildsTranslationTable_");
+            Utils.AddFolderOfTranslationTables(api, mod, tutorialFolderPath, "celesteWildsTranslationTable_");
         }
         public void GenerateJournals()
         {
